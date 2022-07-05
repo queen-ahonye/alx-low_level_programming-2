@@ -22,8 +22,8 @@ putchar(m);
 putchar(l);
 if (n != 55 || m != 56)
 {
-putcher(',');
-putcher(' ');
+putchar(',');
+putchar(' ');
 }
 }
 }
@@ -32,4 +32,3 @@ putcher(' ');
 putchar('\n');
 return (0);
 }
-
