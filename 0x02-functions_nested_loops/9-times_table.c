@@ -28,7 +28,7 @@ _putchar('0' + rep);
 }
 else
 {
-_putchar('0' + rep / 10); 
+_putchar('0' + rep / 10);
 _putchar('0' + rep % 10);
 }
 
